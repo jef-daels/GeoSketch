@@ -1,2 +1,2 @@
 # GeoSketch
-provides basic MonoGame drawing functionality (Line, Rectangle, Circle, Triangle
+Provides basic MonoGame drawing functionality (Line, Rectangle, Circle, Triangle)
