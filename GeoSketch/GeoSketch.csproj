@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Title>GeoSketch</Title>
+    <Version>1.10.0</Version>
+    <Authors>Jef Daels</Authors>
+    <Description>manages sprites for geometric shapes in a monogame</Description>
+    <Copyright>Copyright 2020</Copyright>
+    <PackageTags>monogame geometric shapes</PackageTags>
+    <PackageReleaseNotes>added Arc functionality and added DrawTriangle</PackageReleaseNotes>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="MonoGame.Framework.DesktopGL" Version="3.8.1.303">
+      <PrivateAssets>All</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
+</Project>

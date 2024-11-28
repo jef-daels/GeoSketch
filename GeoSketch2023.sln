@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoSketch2023", "GeoSketch2023\GeoSketch2023.csproj", "{A0EBF55C-0AA3-4C7E-B28E-991504AE9327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoSketch", "GeoSketch\GeoSketch.csproj", "{AFF431E3-4F5A-41AC-8264-910F78737C7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0EBF55C-0AA3-4C7E-B28E-991504AE9327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0EBF55C-0AA3-4C7E-B28E-991504AE9327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0EBF55C-0AA3-4C7E-B28E-991504AE9327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0EBF55C-0AA3-4C7E-B28E-991504AE9327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF431E3-4F5A-41AC-8264-910F78737C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF431E3-4F5A-41AC-8264-910F78737C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF431E3-4F5A-41AC-8264-910F78737C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF431E3-4F5A-41AC-8264-910F78737C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93238005-98A0-4151-9BB7-3396301EB24E}
+	EndGlobalSection
+EndGlobal
